@@ -1,6 +1,6 @@
 ### Hi there, I'm Rupesh Gaikwad 👋
 
-
+- Currently working as a frontend developer(intern) at VentureLattice
 <!--
 **Rupesh-Gaikwad/Rupesh-Gaikwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
